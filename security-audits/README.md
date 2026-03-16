@@ -9,7 +9,7 @@ and procedures to identify gaps and ensure compliance with regulations.
 | Lab | Description |
 |---|---|
 | [Botium Toys Risk Assessment](https://github.com/akatetron/akatetron/blob/main/security-audits/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.docx) | Full scope, goals and risk assessment |
-| [Controls & Compliance Checklist](./controls-compliance-checklist.md) | PCI DSS, GDPR, SOC compliance review |
+| [Controls & Compliance Checklist](https://github.com/akatetron/akatetron/blob/main/security-audits/Controls%20and%20compliance%20checklist_.docx) | PCI DSS, GDPR, SOC compliance review |
 | [Security Risk Assessment Report](./security-risk-assessment-report.md) | Network hardening recommendations |
 
 ## Skills Covered
