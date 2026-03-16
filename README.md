@@ -15,7 +15,7 @@ Hands-on cybersecurity labs documenting my journey toward becoming a SOC Analyst
 
 | # | Folder | Topics Covered |
 |---|---|---|
-| 01 | [Security Audits](./google-cert/01-security-audits/) | NIST CSF, Compliance, Risk Assessment |
+| 01 | [Security Audits]([./google-cert/01-security-audits/](https://github.com/akatetron/akatetron/tree/main/security-audits)) | NIST CSF, Compliance, Risk Assessment |
 | 02 | [Network Traffic Analysis](./google-cert/02-network-traffic-analysis/) | DNS, ICMP, UDP, HTTP |
 | 03 | [Wireshark Labs](./google-cert/03-wireshark-labs/) | Packet Analysis, Filtering, TCP/HTTP |
 | 04 | [tcpdump Labs](./google-cert/04-tcpdump-labs/) | Traffic Capture, Log Analysis |
