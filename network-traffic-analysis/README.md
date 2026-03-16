@@ -9,7 +9,7 @@ suspicious activity, protocol anomalies, and potential security incidents.
 | Lab | Description |
 |---|---|
 | [Network Traffic Analysis Incident Report](./network-traffic-analysis-incident-report.md) | DNS/ICMP analysis using tcpdump |
-| [Analyze Network Attacks](./cybersecurity-incident-report-network-attacks.md) | SYN flood DoS attack analysis |
+| [Analyze Network Attacks](https://github.com/akatetron/akatetron/blob/main/network-traffic-analysis/Cybersecurity%20incident%20report%20_Analyze%20network%20attacks.docx) | SYN flood DoS attack analysis |
 | [Security Incident Report - tcpdump](./security-incident-report-tcpdump.md) | Brute force + malware delivery via HTTP |
 
 ## Skills Covered
