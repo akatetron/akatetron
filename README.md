@@ -15,19 +15,19 @@ Hands-on cybersecurity labs documenting my journey toward becoming a SOC Analyst
 | # | Folder | Topics Covered |
 |---|---|---|
 | 01 | [Security Audits](https://github.com/akatetron/akatetron/tree/main/security-audits)| NIST CSF, Compliance, Risk Assessment |
-| 02 | [Network Traffic Analysis](./google-cert/02-network-traffic-analysis/) | DNS, ICMP, UDP, HTTP |
-| 03 | [Wireshark Labs](./google-cert/03-wireshark-labs/) | Packet Analysis, Filtering, TCP/HTTP |
-| 04 | [tcpdump Labs](./google-cert/04-tcpdump-labs/) | Traffic Capture, Log Analysis |
+| 02 | [Network Traffic Analysis](https://github.com/akatetron/akatetron/tree/main/network-traffic-analysis) | DNS, ICMP, UDP, HTTP |
+| 03 | [Wireshark Labs](https://github.com/akatetron/akatetron/tree/main/Wireshark%20Labs) | Packet Analysis, Filtering, TCP/HTTP |
+| 04 | [tcpdump Labs](https://github.com/akatetron/akatetron/tree/main/tcpdump%20Labs) | Traffic Capture, Log Analysis |
 | 05 | [Incident Response](https://github.com/akatetron/akatetron/tree/main/Incident%20Response) | NIST IR Lifecycle, Journals, Ransomware |
-| 06 | [Linux File Permissions](./google-cert/06-linux-file-permissions/) | chmod, ls -la, Permission Strings |
-| 07 | [SQL Security](./google-cert/07-sql-security/) | Filtering, AND/OR/NOT, LIKE |
+| 06 | [Linux File Permissions](https://github.com/akatetron/akatetron/tree/main/Linux%20File%20Permissions) | chmod, ls -la, Permission Strings |
+| 07 | [SQL Security](https://github.com/akatetron/akatetron/tree/main/SQL%20Security) | Filtering, AND/OR/NOT, LIKE |
 | 08 | [Cryptography](https://github.com/akatetron/akatetron/tree/main/Cryptography) | Hashing, SHA-256, Caesar Cipher, OpenSSL |
-| 09 | [Threat Modeling - PASTA](./google-cert/09-threat-modeling-pasta/) | PASTA Framework, Attack Trees |
-| 10 | [Vulnerability Assessment](./google-cert/10-vulnerability-assessment/) | NIST SP 800-30, Risk Scoring |
+| 09 | [Threat Modeling - PASTA](https://github.com/akatetron/akatetron/tree/main/Threat%20Modeling%20PASTA) | PASTA Framework, Attack Trees |
+| 10 | [Vulnerability Assessment](https://github.com/akatetron/akatetron/tree/main/Vulnerability%20Assessment) | NIST SP 800-30, Risk Scoring |
 | 11 | [Risk Management](https://github.com/akatetron/akatetron/tree/main/Risk%20Management) | Risk Register, Asset Inventory |
-| 12 | [Access Control](./google-cert/12-access-control/) | Least Privilege, IAM, Data Leaks |
+| 12 | [Access Control](https://github.com/akatetron/akatetron/tree/main/Access%20Control) | Least Privilege, IAM, Data Leaks |
 | 13 | [Network Hardening](https://github.com/akatetron/akatetron/tree/main/Network%20Hardening) | MFA, Firewalls, Patch Management |
-| 14 | [Social Engineering](./google-cert/14-social-engineering/) | USB Baiting, Phishing, Physical Security |
+| 14 | [Social Engineering](https://github.com/akatetron/akatetron/tree/main/Social%20Engineering) | USB Baiting, Phishing, Physical Security |
 | 15 | [Brute Force Attacks](https://github.com/akatetron/akatetron/tree/main/Brute%20Force%20Attacks) | Attack Types, Prevention, Tools |
 
 ## 📂 HTB CDSA Labs
