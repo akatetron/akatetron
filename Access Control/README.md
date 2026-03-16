@@ -8,8 +8,8 @@ specific resources, following the principle of least privilege.
 
 | Lab | Description |
 |---|---|
-| [Access Control Worksheet](./access-control-worksheet.md) | Investigating unauthorized payroll access |
-| [Data Leak Worksheet](./data-leak-worksheet.md) | Analyzing a data leak from overpermissioned access |
+| [Access Control Worksheet](https://github.com/akatetron/akatetron/blob/main/Access%20Control/Access%20control%20worksheet_.docx) | Investigating unauthorized payroll access |
+| [Data Leak Worksheet](https://github.com/akatetron/akatetron/blob/main/Access%20Control/Access%20control%20worksheet_.docx) | Analyzing a data leak from overpermissioned access |
 
 ## Skills Covered
 - Access control investigation
