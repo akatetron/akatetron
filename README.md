@@ -18,17 +18,17 @@ Hands-on cybersecurity labs documenting my journey toward becoming a SOC Analyst
 | 02 | [Network Traffic Analysis](./google-cert/02-network-traffic-analysis/) | DNS, ICMP, UDP, HTTP |
 | 03 | [Wireshark Labs](./google-cert/03-wireshark-labs/) | Packet Analysis, Filtering, TCP/HTTP |
 | 04 | [tcpdump Labs](./google-cert/04-tcpdump-labs/) | Traffic Capture, Log Analysis |
-| 05 | [Incident Response](./google-cert/05-incident-response/) | NIST IR Lifecycle, Journals, Ransomware |
+| 05 | [Incident Response](https://github.com/akatetron/akatetron/tree/main/Incident%20Response) | NIST IR Lifecycle, Journals, Ransomware |
 | 06 | [Linux File Permissions](./google-cert/06-linux-file-permissions/) | chmod, ls -la, Permission Strings |
 | 07 | [SQL Security](./google-cert/07-sql-security/) | Filtering, AND/OR/NOT, LIKE |
-| 08 | [Cryptography](./google-cert/08-cryptography/) | Hashing, SHA-256, Caesar Cipher, OpenSSL |
+| 08 | [Cryptography](https://github.com/akatetron/akatetron/tree/main/Cryptography) | Hashing, SHA-256, Caesar Cipher, OpenSSL |
 | 09 | [Threat Modeling - PASTA](./google-cert/09-threat-modeling-pasta/) | PASTA Framework, Attack Trees |
 | 10 | [Vulnerability Assessment](./google-cert/10-vulnerability-assessment/) | NIST SP 800-30, Risk Scoring |
-| 11 | [Risk Management](./google-cert/11-risk-management/) | Risk Register, Asset Inventory |
+| 11 | [Risk Management](https://github.com/akatetron/akatetron/tree/main/Risk%20Management) | Risk Register, Asset Inventory |
 | 12 | [Access Control](./google-cert/12-access-control/) | Least Privilege, IAM, Data Leaks |
-| 13 | [Network Hardening](./google-cert/13-network-hardening/) | MFA, Firewalls, Patch Management |
+| 13 | [Network Hardening](https://github.com/akatetron/akatetron/tree/main/Network%20Hardening) | MFA, Firewalls, Patch Management |
 | 14 | [Social Engineering](./google-cert/14-social-engineering/) | USB Baiting, Phishing, Physical Security |
-| 15 | [Brute Force Attacks](./google-cert/15-brute-force-attacks/) | Attack Types, Prevention, Tools |
+| 15 | [Brute Force Attacks](https://github.com/akatetron/akatetron/tree/main/Brute%20Force%20Attacks) | Attack Types, Prevention, Tools |
 
 ## 📂 HTB CDSA Labs
 
