@@ -8,7 +8,7 @@ suspicious activity, investigate incidents, and manage access.
 
 | Lab | Description |
 |---|---|
-| [Apply Filters to SQL Queries](./apply-filters-to-sql-queries.md) | Filtering login attempts and employee data |
+| [Apply Filters to SQL Queries](https://github.com/akatetron/akatetron/blob/main/SQL%20Security/Apply%20filters%20to%20SQL%20queries_.docx) | Filtering login attempts and employee data |
 
 ## Skills Covered
 - SQL WHERE clause
