@@ -1,59 +1,44 @@
-# Hi, I'm Chayan 👋
-### Aspiring SOC Analyst | Blue Team | Cybersecurity
+# 🔵 Cybersecurity Labs & Writeups
 
-[![LinkedIn] https://www.linkedin.com/in/chayan-panchal-354909255
-[![HTB] https://profile.hackthebox.com/profile/019c73b1-fc74-7355-aa49-a1ee5238d707
+Hands-on cybersecurity labs documenting my journey toward becoming a SOC Analyst.
 
----
-
-## 👨‍💻 About Me
-- 🎯 Aspiring SOC Analyst actively seeking opportunities in **Netherlands**
-- 📚 CS background with hands-on cybersecurity training
-- 🔵 Blue team focused — detection, response and threat analysis
-- 📝 Documenting my cybersecurity journey publicly on LinkedIn
-
----
-
-## 🎓 Certifications & Training
-| Certification | Status |
+## 🎓 Training Paths
+| Path | Status |
 |---|---|
 | Google Cybersecurity Certificate | ✅ Completed |
-| HTB CDSA | 🔄 In Progress |
+| HTB CDSA | 🔄 In Progress (30%) |
 | BTL1 | 📅 Planned |
 
 ---
 
-## 🛠️ Technical Skills
-**Security Tools**
+## 📂 Repository Structure
+
+### 🟦 [Google Cybersecurity Certificate](./google-cert/)
+Labs and projects completed as part of the Google Cybersecurity Certificate program.
+
+| Lab | Category |
+|---|---|
+| [Incident Report Analysis](./google-cert/incident-report-analysis.md) | Incident Response |
+| [Apply Filters to SQL Queries](./google-cert/apply-filters-to-sql-queries.md) | SQL Security |
+| [File Permissions in Linux](./google-cert/file-permissions-in-linux.md) | Linux Security |
+
+### 🟥 [HTB CDSA](./htb-cdsa/)
+Hands-on labs from the Hack The Box Certified Defensive Security Analyst path.
+
+---
+
+## 🛠️ Skills Demonstrated
+- Incident Response (NIST CSF Framework)
+- SQL Security Filtering
+- Linux File Permission Management
 - SIEM: Splunk, Chronicle
 - Network Analysis: Wireshark, tcpdump
 - IDS/IPS: Snort, Suricata
-- EDR: Bitdefender, FortiEDR
-
-**Technical**
 - Python, MySQL
-- Linux, Bash
-- Incident Response
-- Network Protocols (TCP/IP, DNS, HTTP)
+
+## 🔗 Connect
+- [LinkedIn](your-linkedin-url)
+- [HackTheBox Profile](your-htb-url)
 
 ---
-
-## 📂 Featured Projects
-### 🔵 Security Projects
-- [HTB CDSA Lab Writeups](link) — Hands on SOC analyst labs
-- [Security Python Scripts](link) — Security focused automation tools
-
-### 💻 Development Projects
-- [Store Management System](link) — Python, MySQL, GUI application (Tkinter based)
-- 
-
----
-
-## 📊 GitHub Stats
-![akatetron's GitHub stats](https://github-readme-stats.vercel.app/api?username=akatetron&show_icons=true&theme=dark)
-
----
-
-## 📫 Let's Connect
-- 💼 Open to SOC Analyst opportunities in **Netherlands**
-- 📧 chayanpanchal281004@gmail.com
+> 🎯 Open to SOC Analyst opportunities in **Netherlands** 🇳🇱
