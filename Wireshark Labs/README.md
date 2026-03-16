@@ -8,7 +8,8 @@ and inspect data packets in real time or from saved capture files.
 
 | Lab | Description |
 |---|---|
-| [Wireshark Packet Analysis](./wireshark-packet-analysis.md) | Filtering and inspecting packets with Wireshark |[ Sample Logs](https://github.com/akatetron/akatetron/blob/main/Wireshark%20Labs/Wireshark%20TCP_HTTP%20log%20for%20Analyze%20network%20attacks.xlsx) | Sample Logs |
+| [Wireshark Packet Analysis](./wireshark-packet-analysis.md) | Filtering and inspecting packets with Wireshark |
+|[ Sample Logs](https://github.com/akatetron/akatetron/blob/main/Wireshark%20Labs/Wireshark%20TCP_HTTP%20log%20for%20Analyze%20network%20attacks.xlsx) | Sample Logs |
 
 ## Skills Covered
 - Wireshark GUI navigation
