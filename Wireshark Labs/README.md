@@ -8,7 +8,7 @@ and inspect data packets in real time or from saved capture files.
 
 | Lab | Description |
 |---|---|
-| [Wireshark Packet Analysis](./wireshark-packet-analysis.md) | Filtering and inspecting packets with Wireshark |
+| [Wireshark Packet Analysis of Sample logs ](https://github.com/akatetron/akatetron/blob/main/Wireshark%20Labs/Analyze%20your%20%20packet%20with%20Wireshark.docx) | Filtering and inspecting packets with Wireshark |
 |[How to Read ](https://github.com/akatetron/akatetron/blob/main/Wireshark%20Labs/Copy%20of%20How%20to%20read%20a%20Wireshark%20TCP_HTTP%20log.docx)| How to Read Logs|
 |[ Sample Logs](https://github.com/akatetron/akatetron/blob/main/Wireshark%20Labs/Wireshark%20TCP_HTTP%20log%20for%20Analyze%20network%20attacks.xlsx) | Sample Logs |
 
