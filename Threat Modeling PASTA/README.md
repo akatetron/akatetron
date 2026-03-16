@@ -8,12 +8,11 @@ risk-centric threat modeling framework with 7 stages.
 
 | Lab | Description |
 |---|---|
-| [PASTA Threat Model Worksheet](https://github.com/akatetron/akatetron/blob/main/Threat%20Modeling%20PASTA/PASTA%20worksheet_.docx) | Full 7-stage PASTA threat model for a sneaker 
-company app covering threats, vulnerabilities and security controls. |
-| [PASTA Data Flow Diagram]()| Data flow diagram illustrating how information 
-moves between users, systems and APIs in the sneaker app. |
-| [PASTA Attack Tree]() |Visual attack tree mapping exploitation paths 
-for a sneaker company app using the PASTA framework|
+| [PASTA Threat Model Worksheet](https://github.com/akatetron/akatetron/blob/main/Threat%20Modeling%20PASTA/PASTA%20worksheet_.docx) | Full 7-stage PASTA threat model for a sneaker company app covering threats, vulnerabilities and security controls. |
+
+| [PASTA Data Flow Diagram]()| Data flow diagram illustrating how information moves between users, systems and APIs in the sneaker app. |
+
+| [PASTA Attack Tree]() |Visual attack tree mapping exploitation paths for a sneaker company app using the PASTA framework|
 
 
 
