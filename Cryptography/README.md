@@ -9,7 +9,7 @@ hashing, encryption, and cipher techniques.
 | Lab | Description |
 |---|---|
 | [Generate Hashes for Files](https://github.com/akatetron/akatetron/blob/main/Cryptography/Generate%20hashes%20for%20files.docx) | SHA-256 hashing and file integrity verification |
-| [Caesar Cipher Lab](./caesar-cipher-lab.md) | Decrypting Caesar cipher and encrypted files |
+| [Caesar Cipher Lab](https://github.com/akatetron/akatetron/blob/main/Cryptography/Caesar%20cipher%20lab_.docx) | Decrypting Caesar cipher and encrypted files |
 
 ## Skills Covered
 - SHA-256 hashing with `sha256sum`
