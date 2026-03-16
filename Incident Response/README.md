@@ -9,7 +9,7 @@ from security incidents using structured frameworks and documentation.
 | Lab | Description |
 |---|---|
 | [Incident Handler's Journal](https://github.com/akatetron/akatetron/blob/main/Incident%20Response/Incident%20handler_s%20journal%20entry%20%20activity.docx) | Documenting a ransomware incident using 5 W's |
-| [Incident Report Analysis](./incident-report-analysis.md) | NIST CSF applied to a DDoS attack |
+| [Incident Report Analysis](https://github.com/akatetron/akatetron/blob/main/Incident%20Response/Cybersecurity%20incident%20report%20_Analyze%20network%20attacks.docx) | NIST CSF applied to a DDoS attack |
 
 ## Skills Covered
 - NIST Incident Response Lifecycle
