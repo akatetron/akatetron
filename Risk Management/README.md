@@ -8,8 +8,10 @@ risks to organizational assets and implementing controls to mitigate them.
 
 | Lab | Description |
 |---|---|
-| [Risk Register](./risk-register.md) | Bank risk assessment with likelihood and severity scoring |
-| [Home Asset Inventory](./home-asset-inventory.md) | Asset classification and sensitivity assessment |
+| [Risk Register](https://github.com/akatetron/akatetron/blob/main/Risk%20Management/Risk%20register_.docx) | Bank risk assessment with likelihood and severity scoring |
+| [Home Asset Inventory](https://github.com/akatetron/akatetron/blob/main/Risk%20Management/Home%20asset%20inventory_.xlsx) | Asset classification and sensitivity assessment |
+
+
 
 ## Skills Covered
 - Risk register creation
