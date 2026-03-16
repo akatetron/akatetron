@@ -9,7 +9,7 @@ network traffic. It is widely used in SOC environments for incident investigatio
 | Lab | Description |
 |---|---|
 | [How to Read tcpdump Traffic Log](./how-to-read-tcpdump-traffic-log.md) | Understanding tcpdump log output and sample log solution |
-| [Sample](https://github.com/akatetron/akatetron/blob/main/tcpdump%20Labs/Copy%20of%20tcpdump%20traffic%20log%20to%20read.docx)  | Sample log]
+| [Sample](https://github.com/akatetron/akatetron/blob/main/tcpdump%20Labs/Copy%20of%20tcpdump%20traffic%20log%20to%20read.docx)  | Sample log for review]
 ## Skills Covered
 - tcpdump output interpretation
 - DNS and HTTP traffic analysis
