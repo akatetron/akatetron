@@ -8,7 +8,9 @@ Managing permissions correctly is a core part of system security.
 
 | Lab | Description |
 |---|---|
-| [File Permissions in Linux](./file-permissions-in-linux.md) | Checking and updating file permissions |
+| [File Permissions in Linux](https://github.com/akatetron/akatetron/blob/main/Linux%20File%20Permissions/File%20permissions%20in%20Linux_.docx) | Checking and updating file permissions |
+| [Current File Permissions Reference](https://github.com/akatetron/akatetron/blob/main/Linux%20File%20Permissions/Current%20file%20permissions.docx)  | Reference document showing existing file and directory 
+permissions for the projects directory before modifications | 
 
 ## Skills Covered
 - `ls -la` command
