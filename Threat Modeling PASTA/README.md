@@ -8,7 +8,7 @@ risk-centric threat modeling framework with 7 stages.
 
 | Lab | Description |
 |---|---|
-| [PASTA Worksheet](./pasta-worksheet.md) | Full PASTA threat model for a sneaker company app |
+| [PASTA Worksheet](https://github.com/akatetron/akatetron/blob/main/Threat%20Modeling%20PASTA/PASTA%20worksheet_.docx) | Full PASTA threat model for a sneaker company app |
 
 ## Skills Covered
 - PASTA 7-stage framework
