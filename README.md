@@ -1,6 +1,6 @@
 # 🔵 Cybersecurity Labs & Writeups
 
- [Linkedin]("linkedin.com/in/chayan-panchal-354909255")
+ [Linkedin](https://www.linkedin.com/in/chayan-panchal-354909255)
  
 🎯 Aspiring SOC Analyst actively targeting opportunities in Netherlands 🇳🇱
 - 🔵 Blue team focused — detection, response and threat analysis
