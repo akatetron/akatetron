@@ -57,7 +57,7 @@
 - Risk Assessment (NIST SP 800-30)
 
 ## 🔗 Connect
-- [LinkedIn](linkedin.com/in/chayan-panchal-354909255)
+- [Linkedin](https://www.linkedin.com/in/chayan-panchal-354909255)
 - [HackTheBox Profile](your-htb-url)
 
 ---
