@@ -1,5 +1,5 @@
 # 🔵 Cybersecurity Labs & Writeups
-
+linkedin.com/in/chayan-panchal-354909255
 🎯 Aspiring SOC Analyst actively targeting opportunities in Netherlands 🇳🇱
 - 🔵 Blue team focused — detection, response and threat analysis
 - 💻 CS background with hands-on Python and MySQL project experience
@@ -55,7 +55,7 @@
 - Risk Assessment (NIST SP 800-30)
 
 ## 🔗 Connect
-- [LinkedIn](your-linkedin-url)
+- [LinkedIn](linkedin.com/in/chayan-panchal-354909255)
 - [HackTheBox Profile](your-htb-url)
 
 ---
