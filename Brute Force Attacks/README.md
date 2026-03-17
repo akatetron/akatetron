@@ -8,7 +8,7 @@ every possible combination of credentials until the correct one is found.
 
 | Lab | Description |
 |---|---|
-| [Brute Force Attack Analysis](./brute-force-attack-analysis.md) | Tools, techniques, and prevention measures |
+| [Brute Force Attack Analysis](https://github.com/akatetron/akatetron/blob/main/Brute%20Force%20Attacks/Brute%20FOrce_.docx) | Tools, techniques, and prevention measures |
 
 ## Skills Covered
 - Brute force attack types
