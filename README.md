@@ -1,7 +1,13 @@
 # 🔵 Cybersecurity Labs & Writeups
 
-Hands-on cybersecurity labs documenting my journey toward becoming a SOC Analyst.
+🎯 Aspiring SOC Analyst actively targeting opportunities in Netherlands 🇳🇱
+- 🔵 Blue team focused — detection, response and threat analysis
+- 💻 CS background with hands-on Python and MySQL project experience
+- 📝 Documenting my cybersecurity journey publicly on LinkedIn
+- 🔬 Passionate about threat hunting, network analysis and incident response
 
+
+  
 ## 🎓 Training Paths
 | Path | Status |
 |---|---|
