@@ -8,7 +8,7 @@ technical vulnerabilities to gain unauthorized access or information.
 
 | Lab | Description |
 |---|---|
-| [Parking Lot USB Exercise](./parking-lot-usb-exercise.md) | USB baiting attack analysis and risk mitigation |
+| [Parking Lot USB Exercise](https://github.com/akatetron/akatetron/blob/main/Social%20Engineering/Parking%20lot%20USB%20exercise_.docx) | USB baiting attack analysis and risk mitigation |
 
 ## Skills Covered
 - USB baiting attack analysis
