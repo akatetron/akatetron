@@ -8,7 +8,7 @@ controls that strengthen network defenses.
 
 | Lab | Description |
 |---|---|
-| [Network Hardening Tools](./network-hardening-tools.md) | Overview of hardening tasks and their uses |
+| [Network Hardening Tools](https://github.com/akatetron/akatetron/blob/main/Network%20Hardening/Network%20hardening%20tools.xlsx) | Overview of hardening tasks and their uses |
 
 ## Skills Covered
 - Baseline configuration management
