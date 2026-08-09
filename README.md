@@ -1,63 +1,94 @@
-# Chayan Panchal — SOC Analyst Portfolio
+# 🔵 Cybersecurity Labs & Writeups
 
-Hands-on cybersecurity work from HackTheBox Academy and the Google Cybersecurity Professional Certificate, rebuilt here as a single, consistent portfolio for SOC analyst applications.
+[LinkedIn](https://www.linkedin.com/in/chayan-panchal-354909255) · [HackTheBox Profile](https://app.hackthebox.com/profile/overview)
 
-Every lab folder follows the same structure: a walkthrough PDF explaining what happened and why, a README with the full write-up in plain text, and — wherever the lab provided one — the original source material (pcaps, worksheets, spreadsheets, diagrams) exactly as given. Each folder also has its own accent color, used consistently across its PDFs, so the folders are easy to tell apart at a glance. Where a lab has a graded, single-answer flag or a specific "correct" credential/value, that value is partially masked (first, middle, and last character visible) rather than published in full — enough to confirm the work without handing out answers to a currently-active HTB module.
+🎯 Aspiring SOC Analyst actively targeting opportunities in the Netherlands 🇳🇱
+- 🔵 Blue team focused — detection, response, and threat analysis
+- 💻 CS background with hands-on Python and MySQL project experience
+- 📝 Documenting my cybersecurity journey publicly on LinkedIn
+- 🔬 Passionate about threat hunting, network analysis, and incident response
 
----
+Every lab below ships with a designed **walkthrough PDF** (dark theme, its own accent color), a full write-up in the folder's `README.md`, and — where the lab provided one — the original **source files** (pcaps, worksheets, spreadsheets, diagrams) untouched.
 
-## HackTheBox Academy
+> 🔒 **Masking policy:** graded flags / single "correct" answers are shown partially masked (first · middle · last character) — enough to prove the work without leaking answers to a currently-active HTB module.
 
-Eleven modules covering SOC-analyst-relevant blue team and DFIR work — SIEM triage, threat hunting, incident handling, malware and network traffic analysis, IDS/IPS tuning, and Windows-focused detection engineering. Several of these labs share the same fictional `EAGLE.LOCAL` Active Directory environment and account set (`svc-sql1`, `bonni`), which is why some findings reference each other across folders.
+## 🎓 Training Paths
 
-| Folder | What it covers |
+| Path | Status |
 |---|---|
-| [`security-monitoring-siem-fundamentals`](./htb-academy/security-monitoring-siem-fundamentals) | SIEM data flow, log triage, and a structured escalation decision process |
-| [`javascript-deobfuscation`](./htb-academy/javascript-deobfuscation) | Manually deobfuscating malicious JavaScript to recover hidden logic and payloads |
-| [`incident-handling-process`](./htb-academy/incident-handling-process) | NIST IH lifecycle, Cyber Kill Chain, Pyramid of Pain, and a full case study investigated in TheHive |
-| [`threat-hunting-with-elastic`](./htb-academy/threat-hunting-with-elastic) | Proactive, hypothesis-driven hunting for threats that don't trigger existing alerts |
-| [`working-with-ids-ips`](./htb-academy/working-with-ids-ips) | Suricata/Snort rule analysis against real malware families (Empire, Covenant, Sliver, Cerber, Patchwork APT) |
-| [`intro-to-network-traffic-analysis`](./htb-academy/intro-to-network-traffic-analysis) | pcap-based network traffic analysis, with original capture files included |
-| [`introduction-to-malware-analysis`](./htb-academy/introduction-to-malware-analysis) | Static/behavioral analysis basics — entropy, imphash, exports, registry persistence |
-| [`splunk-for-security-analysts`](./htb-academy/splunk-for-security-analysts) | SPL-driven investigation of an LSASS credential-dumping and C2 chain via Sysmon |
-| [`windows-attacks-and-defense`](./htb-academy/windows-attacks-and-defense) | AD credential hunting and a full DCSync attack/detection pair |
-| [`windows-event-logs-finding-evil`](./htb-academy/windows-event-logs-finding-evil) | Reconstructing a full attack chain (DLL hijack → LSASS dump) from raw Windows Event Logs and Sysmon |
-| [`cdsa-capstone-incident-report`](./htb-academy/cdsa-capstone-incident-report) | Original capstone incident report — a full multi-stage intrusion from initial access to domain compromise |
+| Google Cybersecurity Professional Certificate | ✅ Completed |
+| HTB CDSA (Certified Defensive Security Analyst) | ✅ Capstone complete |
+| BTL1 | 📅 Planned |
 
-## Google Cybersecurity Professional Certificate
+---
 
-Fifteen shorter, worksheet-style exercises from the "Assets, Threats, and Vulnerabilities" and "Detection and Response" courses — access control, cryptography, Linux permissions, SQL filtering, threat modeling, vulnerability assessment, packet analysis, and incident response fundamentals.
+## 📂 HackTheBox Academy
 
-| Folder | What it covers |
+Blue team / DFIR work — SIEM triage, threat hunting, incident handling, malware and network traffic analysis, IDS/IPS tuning, Windows detection engineering. Several labs share the same fictional `EAGLE.LOCAL` AD environment and account set (`svc-sql1`, `bonni`) — findings cross-reference across folders.
+
+| # | Folder | Topics Covered |
+|---|---|---|
+| 01 | [Security Monitoring & SIEM Fundamentals](./htb-academy/security-monitoring-siem-fundamentals) | SIEM data flow, log triage, escalation decisions |
+| 02 | [JavaScript Deobfuscation](./htb-academy/javascript-deobfuscation) | Obfuscation types, manual deobfuscation, payload recovery |
+| 03 | [Incident Handling Process](./htb-academy/incident-handling-process) | NIST IH lifecycle, Cyber Kill Chain, Pyramid of Pain, TheHive |
+| 04 | [Threat Hunting with Elastic](./htb-academy/threat-hunting-with-elastic) | Hypothesis-driven hunting, Elastic Stack |
+| 05 | [Working with IDS/IPS](./htb-academy/working-with-ids-ips) | Suricata/Snort rules vs. Empire, Covenant, Sliver, Cerber, Patchwork APT |
+| 06 | [Intro to Network Traffic Analysis](./htb-academy/intro-to-network-traffic-analysis) | Wireshark, tcpdump, pcap analysis, live capture |
+| 07 | [Introduction to Malware Analysis](./htb-academy/introduction-to-malware-analysis) | Static/behavioral analysis — entropy, imphash, persistence |
+| 08 | [Splunk for Security Analysts](./htb-academy/splunk-for-security-analysts) | SPL, LSASS dumping + C2 detection via Sysmon |
+| 09 | [Windows Attacks & Defense](./htb-academy/windows-attacks-and-defense) | AD credential hunting, DCSync attack/detection |
+| 10 | [Windows Event Logs & Finding Evil](./htb-academy/windows-event-logs-finding-evil) | Full attack chain from raw Event Logs + Sysmon |
+| 11 | [CDSA Capstone Incident Report](./htb-academy/cdsa-capstone-incident-report) | Full intrusion — initial access to domain compromise |
+
+## 📂 Google Cybersecurity Certificate Labs
+
+Worksheet-style exercises from "Assets, Threats, and Vulnerabilities" and "Detection and Response" — access control, cryptography, Linux permissions, SQL filtering, threat modeling, vulnerability assessment, packet analysis, incident response.
+
+| # | Folder | Topics Covered |
+|---|---|---|
+| 01 | [Security Audits](./google-cybersecurity-certificate/security-audits) | NIST CSF, compliance, risk assessment |
+| 02 | [Network Traffic Analysis](./google-cybersecurity-certificate/network-traffic-analysis) | DNS, ICMP, UDP, HTTP |
+| 03 | [Wireshark Labs](./google-cybersecurity-certificate/wireshark-labs) | Packet analysis, filtering, TCP/HTTP |
+| 04 | [tcpdump Labs](./google-cybersecurity-certificate/tcpdump-labs) | Traffic capture, log analysis |
+| 05 | [Incident Response](./google-cybersecurity-certificate/incident-response) | NIST IR lifecycle, journals, ransomware |
+| 06 | [Linux File Permissions](./google-cybersecurity-certificate/linux-file-permissions) | chmod, ls -la, permission strings |
+| 07 | [SQL Security](./google-cybersecurity-certificate/sql-security) | Filtering, AND/OR/NOT, LIKE |
+| 08 | [Cryptography](./google-cybersecurity-certificate/cryptography) | Hashing, SHA-256, Caesar cipher, OpenSSL |
+| 09 | [Threat Modeling — PASTA](./google-cybersecurity-certificate/threat-modeling-pasta) | PASTA framework, attack trees |
+| 10 | [Vulnerability Assessment](./google-cybersecurity-certificate/vulnerability-assessment) | NIST SP 800-30, risk scoring |
+| 11 | [Risk Management](./google-cybersecurity-certificate/risk-management) | Risk register, asset inventory |
+| 12 | [Access Control](./google-cybersecurity-certificate/access-control) | Least privilege, IAM, data leaks |
+| 13 | [Network Hardening](./google-cybersecurity-certificate/network-hardening) | MFA, firewalls, patch management |
+| 14 | [Social Engineering](./google-cybersecurity-certificate/social-engineering) | USB baiting, phishing, physical security |
+| 15 | [Brute Force Attacks](./google-cybersecurity-certificate/brute-force-attacks) | Attack types, prevention, tools |
+
+## ✍️ Handwritten Study Notes
+
+| # | Folder | Contents |
+|---|---|---|
+| 01 | [Handwritten Notes](./handwritten-notes) | Personal notes from each Google Cybersecurity Certificate course |
+
+## 🛠️ Skills Demonstrated
+
+| Tool / Framework | Where Used |
 |---|---|
-| [`access-control`](./google-cybersecurity-certificate/access-control) | Least-privilege incident investigation and a data-leak analysis (NIST SP 800-53 AC-6) |
-| [`brute-force-attacks`](./google-cybersecurity-certificate/brute-force-attacks) | Brute force tools and layered defenses (hashing/salting, MFA, CAPTCHA, password policy) |
-| [`cryptography`](./google-cybersecurity-certificate/cryptography) | SHA-256 file integrity checks and a Caesar-cipher-into-AES decryption chain |
-| [`linux-file-permissions`](./google-cybersecurity-certificate/linux-file-permissions) | Auditing and correcting Linux permissions with `chmod` |
-| [`network-hardening`](./google-cybersecurity-certificate/network-hardening) | Core network hardening tasks and attack-surface reduction |
-| [`sql-security`](./google-cybersecurity-certificate/sql-security) | Security-focused SQL filtering with AND/OR/NOT/LIKE |
-| [`social-engineering`](./google-cybersecurity-certificate/social-engineering) | USB-baiting attack analysis and mitigating controls |
-| [`threat-modeling-pasta`](./google-cybersecurity-certificate/threat-modeling-pasta) | Full 7-stage PASTA threat model for a mobile app |
-| [`vulnerability-assessment`](./google-cybersecurity-certificate/vulnerability-assessment) | NIST SP 800-30 risk-scored vulnerability assessment of a database server |
-| [`wireshark-labs`](./google-cybersecurity-certificate/wireshark-labs) | Wireshark packet filtering and recognizing a SYN flood DoS attack |
-| [`tcpdump-labs`](./google-cybersecurity-certificate/tcpdump-labs) | Reading a raw tcpdump log to trace a malware-delivery redirect chain |
-| [`incident-response`](./google-cybersecurity-certificate/incident-response) | Three incident reports — SYN flood, ransomware (5 W's), and brute-forced malware delivery |
-| [`network-traffic-analysis`](./google-cybersecurity-certificate/network-traffic-analysis) | Diagnosing a DNS outage from ICMP "port unreachable" evidence |
-| [`security-audits`](./google-cybersecurity-certificate/security-audits) | Full NIST CSF security audit of a retail company, with a PCI DSS/GDPR/SOC compliance checklist |
-| [`risk-management`](./google-cybersecurity-certificate/risk-management) | Bank risk register scored by likelihood x severity, plus a home asset sensitivity inventory |
+| **Wireshark** | Packet analysis, TCP/HTTP filtering, network attack detection |
+| **tcpdump** | Traffic capture, log interpretation, DNS/HTTP analysis |
+| **Splunk / Elastic** | SIEM — log ingestion, searching, alerting, threat hunting |
+| **Snort / Suricata** | IDS/IPS rule analysis against real malware families |
+| **Sysmon / Windows Event Logs** | Endpoint detection, attack-chain reconstruction |
+| **TheHive** | Case management, full incident-handling lifecycle |
+| **Linux CLI** | File permissions (chmod), cryptography (openssl, sha256sum) |
+| **SQL** | Security-focused queries, login log investigation |
+| **NIST CSF / SP 800-30** | Security audits, vulnerability and risk assessment |
+| **PASTA** | Full 7-stage threat modeling for a production app |
+| **Python / MySQL** | Scripting and database projects |
 
-This repository sits alongside full completion of the Google Cybersecurity Professional Certificate; every graded lab exercise from the program is documented in full above.
+## 🔗 Connect
 
-## Handwritten study notes
-
-[`handwritten-notes/`](./handwritten-notes) holds personal handwritten notes taken while working through each course of the certificate — kept here for my own reference alongside the polished lab writeups above.
+- [LinkedIn](https://www.linkedin.com/in/chayan-panchal-354909255)
+- [HackTheBox Profile](https://app.hackthebox.com/profile/overview)
 
 ---
 
-## Notes on how this repo is organized
-
-Every module folder follows the same shape: a `README.md` with an overview paragraph and the full walkthrough in prose, one or more PDFs (a `Walkthrough` and, for the larger HTB modules, a companion `Study Notes` PDF with a quick-reference page), and — where the lab provided one — a `source-files/` subfolder with the original worksheets, spreadsheets, diagrams, or packet captures exactly as given. Each folder has its own accent color pair, applied consistently across its own PDFs so the modules are visually distinct from one another while sharing one dark, consistent design system throughout.
-
----
-
-*Chayan Panchal · [github.com/akatetron](https://github.com/akatetron) · SOC Analyst — Netherlands*
+> 🎯 Open to **SOC Analyst** opportunities in the **Netherlands** 🇳🇱
