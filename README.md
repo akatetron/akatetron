@@ -186,4 +186,6 @@ Worksheet-style exercises from "Assets, Threats, and Vulnerabilities" and "Detec
 
 ---
 
-> 🎯 Open to **SOC Analyst** opportunities in the **Netherlands** 🇳🇱
+> 🎯 Open to **SOC Analyst / Blue Team** roles in the **EU** *(sponsorship required)*, **India** and **Canada**.
+> > Detection-engineering portfolio: **[signal over noise](https://github.com/akatetron/signal-over-noise)**
+> > 
