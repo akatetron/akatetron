@@ -1,4 +1,4 @@
-# 🔵 Cybersecurity Labs & Writeups
+undefined# 🔵 Cybersecurity Labs & Writeups
 
 [LinkedIn](https://www.linkedin.com/in/chayan-panchal-354909255) · [HackTheBox Profile](https://app.hackthebox.com/profile/overview)
 
