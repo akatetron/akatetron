@@ -1,5 +1,13 @@
 # 🔵 Cybersecurity Labs & Writeups
 
+### ⭐ Start here — [signal › over › noise](https://github.com/akatetron/signal-over-noise) · [live site](https://akatetron.github.io/signal-over-noise/)
+
+[![Validate detections](https://github.com/akatetron/signal-over-noise/actions/workflows/validate-detections.yml/badge.svg)](https://github.com/akatetron/signal-over-noise/actions/workflows/validate-detections.yml)
+
+My SOC analyst portfolio: **10 detection rules** (Sigma, KQL, SPL, Suricata) mapped to MITRE ATT&CK with false-positive and tuning notes, a **five-stage intrusion reconstruction** from Sysmon logs with a formal incident report, and **seven SIEM triage findings** with a documented disposition for each. Rules are validated automatically in CI.
+
+---
+
 [LinkedIn](https://www.linkedin.com/in/chayan-panchal-354909255) · [HackTheBox Profile](https://app.hackthebox.com/profile/overview)
 
 🎯 **HTB CDSA certified SOC Analyst** — open to Tier 1 SOC roles in the **EU** *(sponsorship required)*, **India** and **Canada**
